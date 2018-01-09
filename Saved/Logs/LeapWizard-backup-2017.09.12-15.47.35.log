@@ -1,0 +1,522 @@
+﻿Log file open, 09/12/17 15:29:35
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: LeapWizard
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-285783637) SRandInit(-285783637).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.358231
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: F:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.12-19.29.37:386][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.12-19.29.37:386][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.12-19.29.37:445][  0]LogInit: Computer: CARMODY-PC
+[2017.09.12-19.29.37:445][  0]LogInit: User: Michael
+[2017.09.12-19.29.37:445][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.12-19.29.37:445][  0]LogInit: High frequency timer resolution =3.222667 MHz
+[2017.09.12-19.29.37:445][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2017.09.12-19.29.37:445][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.12-19.29.37:445][  0]LogMemory: Process Physical Memory: 287.74 MB used, 287.74 MB peak
+[2017.09.12-19.29.37:445][  0]LogMemory: Process Virtual Memory: 276.84 MB used, 276.84 MB peak
+[2017.09.12-19.29.37:445][  0]LogMemory: Physical Memory: 7072.82 MB used,  5163.91 MB free, 12236.72 MB total
+[2017.09.12-19.29.37:445][  0]LogMemory: Virtual Memory: 749.02 MB used,  5163.91 MB free, 134217728.00 MB total
+[2017.09.12-19.29.38:350][  0]LogInit: Using OS detected language (en-US).
+[2017.09.12-19.29.38:350][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.12-19.29.38:629][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.12-19.29.43:478][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.12-19.29.44:018][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.09.12-19.29.44:018][  0]LogD3D11RHI:       4058/0/6118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.09.12-19.29.44:020][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.12-19.29.44:020][  0]LogD3D11RHI:       0/0/6118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.12-19.29.44:020][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.12-19.29.44:027][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.12-19.29.44:027][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.12-19.29.44:027][  0]LogWindows: EnumDisplayDevices:
+[2017.09.12-19.29.44:027][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.09.12-19.29.44:027][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2017.09.12-19.29.44:027][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.09.12-19.29.44:027][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.09.12-19.29.44:027][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.12-19.29.44:027][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.09.12-19.29.44:027][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2017.09.12-19.29.44:027][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2017.09.12-19.29.44:027][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.12-19.29.44:054][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.12-19.29.44:316][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.12-19.29.44:415][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Intermediate/Shaders/WorkingDirectory/10040/).
+[2017.09.12-19.29.44:415][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Michael/AppData/Local/Temp/UnrealShaderWorkingDir/D8A5E3E9479E5FD8E2CFEB8478E60BCB/'.
+[2017.09.12-19.29.44:427][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.12-19.29.48:863][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.12-19.29.48:910][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.12-19.29.48:955][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.12-19.29.48:998][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.12-19.29.49:050][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.12-19.29.49:097][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.12-19.29.49:150][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.12-19.29.49:210][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.12-19.29.49:266][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.12-19.29.49:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.12-19.29.49:393][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.12-19.29.49:476][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.12-19.29.49:529][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.12-19.29.49:578][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.12-19.29.49:629][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.12-19.29.49:739][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.12-19.29.49:739][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.12-19.29.49:772][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.12-19.29.49:949][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.12-19.29.49:980][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.12-19.29.50:027][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.12-19.29.50:076][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.12-19.29.50:121][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.12-19.29.50:180][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.12-19.29.50:180][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.12-19.29.51:560][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.12-19.29.51:921][  0]LogDerivedDataCache: Loaded boot cache 0.36s 93MB C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.12-19.29.51:922][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.12-19.29.51:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Michael/Documents/Unreal Projects/LeapWizard/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.12-19.29.51:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.12-19.29.51:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Michael/Documents/Unreal Projects/LeapWizard/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.12-19.29.51:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.12-19.29.52:033][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.12-19.29.52:046][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Michael/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.12-19.29.52:101][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.12-19.29.52:179][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.12-19.29.52:279][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.12-19.29.52:291][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.12-19.29.59:998][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2017.09.12-19.30.02:035][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.12-19.30.11:176][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.12-19.30.14:370][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.12-19.30.14:428][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.12-19.30.14:440][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.12-19.30.14:448][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.12-19.30.14:448][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.12-19.30.14:448][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.12-19.30.17:215][  0]LogNetVersion: LeapWizard , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3245279720)
+[2017.09.12-19.30.18:797][  0]LogPackageLocalizationCache: Processed 6 localized package path(s) for 2 prioritized culture(s) in 0.089688 seconds
+[2017.09.12-19.30.18:814][  0]LogUObjectArray: 36510 objects as part of root set at end of initial load.
+[2017.09.12-19.30.18:814][  0]LogUObjectAllocator: 7648152 out of 0 bytes used by permanent object pool.
+[2017.09.12-19.30.18:814][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.12-19.30.18:885][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.12-19.30.39:646][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.12-19.30.39:708][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.12-19.30.41:088][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.12-19.30.41:922][  0]SourceControl: Source control is disabled
+[2017.09.12-19.30.41:922][  0]SourceControl: Source control is disabled
+[2017.09.12-19.30.42:007][  0]SourceControl: Source control is disabled
+[2017.09.12-19.30.42:061][  0]SourceControl: Source control is disabled
+[2017.09.12-19.30.43:152][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.12-19.30.43:364][  0]LogOcInput: OculusInput pre-init called
+[2017.09.12-19.30.43:990][  0]LogEngine: Initializing Engine...
+[2017.09.12-19.30.48:332][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-2B8C2E96
+[2017.09.12-19.30.53:108][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.12-19.30.53:141][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.12-19.30.55:442][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.12-19.30.55:555][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.12-19.30.55:597][  0]LogInit: FAudioDevice initialized.
+[2017.09.12-19.30.55:776][  0]LogDerivedDataCache: Saved boot cache 0.18s 93MB C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.12-19.30.55:800][  0]LogInit: Texture streaming: Enabled
+[2017.09.12-19.30.56:229][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.12-19.30.56:983][  0]LogInit: Transaction tracking system initialized
+[2017.09.12-19.30.57:950][  0]BlueprintLog: New page: Editor Load
+[2017.09.12-19.31.03:642][  0]LocalizationService: Localization service is disabled
+[2017.09.12-19.31.09:766][  0]LogConsoleResponse: Display: 
+[2017.09.12-19.31.24:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/' took 0.02s
+[2017.09.12-19.31.24:343][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.12-19.31.24:343][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.12-19.31.24:473][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.12-19.31.35:197][  0]SourceControl: Source control is disabled
+[2017.09.12-19.31.35:504][  0]Cmd: MAP LOAD FILE="C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.12-19.31.35:566][  0]LightingResults: New page: Lighting Build
+[2017.09.12-19.31.36:471][  0]MapCheck: New page: Map Check
+[2017.09.12-19.31.36:472][  0]LightingResults: New page: Lighting Build
+[2017.09.12-19.31.52:561][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] Override pins have been removed from  Break PostProcessSettings  in  PostProcessChanger , please verify the Blueprint works as expected! See tooltips for enabling pin visibility for more details. This warning will go away after you resave the asset!
+[2017.09.12-19.31.52:664][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] [0148.88] Compile of PostProcessChanger successful, but with 1 Warning(s) [in 528 ms] (/LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger)
+[2017.09.12-19.31.54:129][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ChangeImageHandTint' for  InputAction ChangeImageHandTint
+[2017.09.12-19.31.54:130][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.09.12-19.31.54:130][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ChangeHands' for  InputAction ChangeHands
+[2017.09.12-19.31.54:130][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ResetHMDOrientation' for  InputAction ResetHMDOrientation
+[2017.09.12-19.31.54:130][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ComfortTurnRight' for  InputAction ComfortTurnRight
+[2017.09.12-19.31.54:130][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ComfortTurnLeft' for  InputAction ComfortTurnLeft
+[2017.09.12-19.31.54:131][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.09.12-19.31.54:131][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2017.09.12-19.31.54:131][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2017.09.12-19.31.54:132][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2017.09.12-19.31.54:132][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2017.09.12-19.31.54:132][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.09.12-19.31.54:163][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] [0150.37] Compile of LeapFloatingHandsCharacter successful, but with 12 Warning(s) [in 68 ms] (/LeapMotion/Blueprints/Rigging/LeapFloatingHandsCharacter.LeapFloatingHandsCharacter)
+[2017.09.12-19.31.57:626][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.12-19.31.58:337][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1755
+[2017.09.12-19.31.58:343][  0]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.31.58:404][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1757
+[2017.09.12-19.31.58:433][  0]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.31.58:547][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.12-19.31.59:980][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.12-19.32.00:098][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.977ms to complete.
+[2017.09.12-19.32.00:098][  0]LogFileHelpers: Loading map 'Minimal_Default' took 24.798
+[2017.09.12-19.32.01:634][  0]LogCollectionManager: Loaded 0 collections in 0.003957 seconds
+[2017.09.12-19.32.01:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Collections/' took 0.02s
+[2017.09.12-19.32.01:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/Developers/Michael/Collections/' took 0.01s
+[2017.09.12-19.32.01:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/Collections/' took 0.02s
+[2017.09.12-19.32.01:823][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.09.12-19.32.01:839][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2413 classes and 504 folders.
+[2017.09.12-19.32.02:020][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.09.12-19.32.04:150][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.09.12-19.32.04:332][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.09.12-19.32.07:367][  0]LogSlate: Took 0.016282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.12-19.32.07:393][  0]LogSlate: Took 0.012204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.12-19.32.07:486][  0]LogSlate: Took 0.039225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.12-19.32.08:230][  0]LogRenderer: Reallocating scene render targets to support 1104x564 Format 10 NumSamples 1 (Frame:1).
+[2017.09.12-19.32.08:790][  0]LogSlate: Took 0.038348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.12-19.32.09:351][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2017.09.12-19.32.09:351][  0]LogLoad: (Engine Initialization) Total time: 165.56 seconds
+[2017.09.12-19.32.09:351][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.12-19.32.09:352][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.12-19.32.09:736][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2017.09.12-19.32.09:739][  0]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.32.09:817][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.12-19.32.10:758][  3]LogSlate: Took 0.004499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.12-19.32.12:167][  6]LogAssetRegistry: Asset discovery search completed in 132.1908 seconds
+[2017.09.12-19.32.12:180][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.12-19.32.12:181][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000121 seconds (updated 0 objects)
+[2017.09.12-19.33.47:445][300]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.12-19.33.47:800][300]LogSavePackage: Save=248.95ms
+[2017.09.12-19.33.47:800][300]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Minimal_Default4A3AD8C447263BA3754EECB3C064BBAA.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.09.12-19.33.47:807][300]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.09.12-19.33.47:926][300]LogSavePackage: Save=62.24ms
+[2017.09.12-19.33.47:927][300]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Minimal_Default_BuiltData68DC9FD948A991702DBCBE80E453433C.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.09.12-19.33.47:928][300]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.09.12-19.33.53:172][712]LogEditorViewport: Clicking on Actor (LMB): Pawn_Blueprint_C (Pawn_Blueprint)
+[2017.09.12-19.33.56:481][822]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 113 classes and 0 folders.
+[2017.09.12-19.33.58:842][822]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1
+[2017.09.12-19.33.58:846][822]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.33.58:886][822]LogSlate: Took 0.021877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.12-19.33.59:581][823]LogSlate: Took 0.021415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.12-19.36.45:608][432]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1759
+[2017.09.12-19.36.45:613][432]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.36.45:614][432]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.36.45:618][432]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_3
+[2017.09.12-19.36.45:621][432]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.36.45:622][432]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.36.45:627][432]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_5
+[2017.09.12-19.36.45:632][432]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.36.45:633][432]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.36.54:650][798]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1761
+[2017.09.12-19.36.54:666][798]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.36.54:669][798]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.36.54:679][798]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_7
+[2017.09.12-19.36.54:685][798]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.36.54:687][798]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.36.54:691][798]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_9
+[2017.09.12-19.36.54:698][798]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.36.54:699][798]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.37.24:356][946]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.37.24:359][946]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_11
+[2017.09.12-19.37.24:363][946]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.37.24:402][947]LogRenderer: Reallocating scene render targets to support 1144x744 Format 10 NumSamples 1 (Frame:1).
+[2017.09.12-19.37.49:245][352]LogEditorViewport: Clicking on Actor (LMB): Pawn_Blueprint_C (Pawn_Blueprint)
+[2017.09.12-19.38.17:205][298]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.09.12-19.38.17:775][298]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.09.12-19.38.17:910][298]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.09.12-19.38.19:170][298]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0011 seconds. Added 1 classes and 0 folders.
+[2017.09.12-19.38.19:251][299]LogRenderer: Reallocating scene render targets to support 1144x928 Format 10 NumSamples 1 (Frame:1).
+[2017.09.12-19.41.12:000][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawn_Blueprint" FILE="C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/Pawn_Blueprint.uasset" SILENT=true
+[2017.09.12-19.41.12:225][392]LogSavePackage: Save=191.46ms
+[2017.09.12-19.41.12:225][392]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Pawn_BlueprintC4E0F98F4A6909FBB7F6E38BA4963457.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/Pawn_Blueprint.uasset'
+[2017.09.12-19.41.12:235][392]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/Pawn_Blueprint.uasset
+[2017.09.12-19.41.48:716][217]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1763
+[2017.09.12-19.41.48:722][217]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.41.48:726][217]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.41.48:728][217]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_13
+[2017.09.12-19.41.48:731][217]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.41.48:732][217]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.41.48:735][217]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_15
+[2017.09.12-19.41.48:740][217]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.41.48:743][217]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.14:501][572]BlueprintLog: New page: Compile Pawn_Blueprint
+[2017.09.12-19.42.14:811][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1765
+[2017.09.12-19.42.14:814][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.14:816][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1767
+[2017.09.12-19.42.14:964][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_18
+[2017.09.12-19.42.14:966][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.42.14:968][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_20
+[2017.09.12-19.42.15:118][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_21
+[2017.09.12-19.42.15:123][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.15:125][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_23
+[2017.09.12-19.42.17:193][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1769
+[2017.09.12-19.42.17:196][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.17:200][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.17:203][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_25
+[2017.09.12-19.42.17:207][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.42.17:208][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_0
+[2017.09.12-19.42.17:211][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_27
+[2017.09.12-19.42.17:217][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.17:221][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.17:223][572]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_29
+[2017.09.12-19.42.17:226][572]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.42.19:670][684]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.19:673][684]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_31
+[2017.09.12-19.42.19:678][684]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.46:541][ 47]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1771
+[2017.09.12-19.42.46:545][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.46:546][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.46:549][ 47]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_33
+[2017.09.12-19.42.46:553][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.46:554][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.46:556][ 47]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_35
+[2017.09.12-19.42.46:559][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.42.46:559][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.42.46:584][ 47]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1773
+[2017.09.12-19.42.46:588][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.46:590][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.46:594][ 47]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_37
+[2017.09.12-19.42.46:599][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.46:600][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.46:603][ 47]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_39
+[2017.09.12-19.42.46:607][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.42.46:608][ 47]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.42.58:107][736]LogSlate: Took 0.013495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.09.12-19.42.59:265][805]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1775
+[2017.09.12-19.42.59:270][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.59:271][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.59:277][805]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_41
+[2017.09.12-19.42.59:283][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.59:285][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.59:288][805]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_43
+[2017.09.12-19.42.59:290][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.42.59:291][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.42.59:305][805]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1777
+[2017.09.12-19.42.59:309][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.59:310][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.42.59:313][805]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_45
+[2017.09.12-19.42.59:319][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.59:320][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.42.59:323][805]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_47
+[2017.09.12-19.42.59:326][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.42.59:327][805]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.43.00:971][887]BlueprintLog: New page: Compile Pawn_Blueprint
+[2017.09.12-19.43.01:229][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1779
+[2017.09.12-19.43.01:232][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.43.01:235][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1781
+[2017.09.12-19.43.01:505][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_50
+[2017.09.12-19.43.01:509][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.43.01:511][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_52
+[2017.09.12-19.43.01:649][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_53
+[2017.09.12-19.43.01:651][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.43.01:654][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_55
+[2017.09.12-19.43.04:477][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1783
+[2017.09.12-19.43.04:482][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.43.04:488][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.43.04:491][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_57
+[2017.09.12-19.43.04:495][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.43.04:497][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.43.04:500][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_59
+[2017.09.12-19.43.04:502][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.43.04:503][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.43.04:505][887]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_61
+[2017.09.12-19.43.04:508][887]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_19
+[2017.09.12-19.43.48:343][995]LogSavePackage: Save=199.77ms
+[2017.09.12-19.43.48:343][995]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Minimal_Default_Auto1B38CF9314EBE85F12A07AEB90923BB92.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2017.09.12-19.43.48:345][995]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2017.09.12-19.43.48:355][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.746
+[2017.09.12-19.43.48:355][995]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.746
+[2017.09.12-19.43.48:358][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pawn_Blueprint] ([1] browsable assets)...
+[2017.09.12-19.43.48:376][995]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Pawn_Blueprint.Pawn_Blueprint]
+[2017.09.12-19.43.48:376][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pawn_Blueprint]
+[2017.09.12-19.43.48:376][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawn_Blueprint" FILE="C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Autosaves/Game/Pawn_Blueprint_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.09.12-19.43.48:657][995]LogSavePackage: Save=270.67ms
+[2017.09.12-19.43.48:657][995]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Pawn_Blueprint_Auto131EABB744237958E754FC5B19E54BD64.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Autosaves/Game/Pawn_Blueprint_Auto1.uasset'
+[2017.09.12-19.43.48:660][995]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Autosaves/Game/Pawn_Blueprint_Auto1.uasset
+[2017.09.12-19.43.48:660][995]LogFileHelpers: Auto-saving content packages took 0.303
+[2017.09.12-19.44.11:435][110]BlueprintLog: New page: Compile Pawn_Blueprint
+[2017.09.12-19.44.11:704][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1785
+[2017.09.12-19.44.11:707][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.44.11:710][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1787
+[2017.09.12-19.44.11:848][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_64
+[2017.09.12-19.44.11:852][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.44.11:854][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_66
+[2017.09.12-19.44.11:995][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_67
+[2017.09.12-19.44.11:999][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_19
+[2017.09.12-19.44.12:002][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_69
+[2017.09.12-19.44.12:912][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1789
+[2017.09.12-19.44.12:916][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.44.12:919][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.44.12:923][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_71
+[2017.09.12-19.44.12:928][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.44.12:929][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.44.12:932][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_73
+[2017.09.12-19.44.12:935][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_19
+[2017.09.12-19.44.12:936][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_19
+[2017.09.12-19.44.12:940][110]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_75
+[2017.09.12-19.44.12:943][110]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.44.54:765][ 56]BlueprintLog: New page: Compile Pawn_Blueprint
+[2017.09.12-19.44.55:068][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1791
+[2017.09.12-19.44.55:071][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.44.55:074][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1793
+[2017.09.12-19.44.55:273][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_78
+[2017.09.12-19.44.55:277][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.44.55:280][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_80
+[2017.09.12-19.44.55:486][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_81
+[2017.09.12-19.44.55:491][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.44.55:494][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_83
+[2017.09.12-19.44.56:928][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1795
+[2017.09.12-19.44.56:933][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.44.56:938][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.44.56:941][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_85
+[2017.09.12-19.44.56:946][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.44.56:947][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_1
+[2017.09.12-19.44.56:950][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_87
+[2017.09.12-19.44.56:953][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.44.56:953][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_18
+[2017.09.12-19.44.56:956][ 56]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_89
+[2017.09.12-19.44.56:958][ 56]LeapPluginLog: InterfaceObject: Pawn_Blueprint_C_19
+[2017.09.12-19.45.09:453][571]LogTemp: Repeating last play command: VR Preview
+[2017.09.12-19.45.09:534][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.12-19.45.09:534][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.12-19.45.09:609][571]PIE: New page: PIE session: Minimal_Default (Sep 12, 2017, 11:45:09 AM)
+[2017.09.12-19.45.09:609][571]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.09.12-19.45.09:633][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024114s)
+[2017.09.12-19.45.09:634][571]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.12-19.45.09:634][571]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2017.09.12-19.45.09:634][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.025613s)
+[2017.09.12-19.45.10:229][571]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.12-19.45.10:258][571]LogInit: FAudioDevice initialized.
+[2017.09.12-19.45.10:481][571]LogLoad: Game class is 'LeapGameMode_C'
+[2017.09.12-19.45.10:485][571]LeapPluginLog: InterfaceObject: Pawn_Blueprint_157
+[2017.09.12-19.45.10:485][571]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1775
+[2017.09.12-19.45.10:485][571]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.09.12-15.45.10
+[2017.09.12-19.45.10:497][571]LogWorld: Bringing up level for play took: 0.015409
+[2017.09.12-19.45.10:649][571]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0044 seconds. Added 11 classes and 0 folders.
+[2017.09.12-19.45.10:664][571]Cmd: stereo reset
+[2017.09.12-19.45.10:723][571]Command not recognized: stereo reset
+[2017.09.12-19.45.10:755][571]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.944
+[2017.09.12-19.45.10:756][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.12-19.45.10:772][571]LogScript: Warning: Accessed None trying to read property RightHand
+	Pawn_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Pawn_Blueprint_157
+	Function /Game/Pawn_Blueprint.Pawn_Blueprint_C:HandCenter:001E
+[2017.09.12-19.45.10:772][571]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightHand from function: 'HandCenter' from node: Set Hand Position in graph: HandCenter in object: Pawn_Blueprint with description: Accessed None trying to read property RightHand
+[2017.09.12-19.45.10:772][571]LogScript: Warning: Accessed None trying to read property RightHand
+	Pawn_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Pawn_Blueprint_157
+	Function /Game/Pawn_Blueprint.Pawn_Blueprint_C:HandCenter:0061
+[2017.09.12-19.45.10:772][571]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightHand from function: 'HandCenter' from node: Set Hand Position in graph: HandCenter in object: Pawn_Blueprint with description: Accessed None trying to read property RightHand
+[2017.09.12-19.45.10:772][571]LogScript: Warning: Accessed None trying to read property RightHand
+	Pawn_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Pawn_Blueprint_157
+	Function /Game/Pawn_Blueprint.Pawn_Blueprint_C:HandCenter:00A4
+[2017.09.12-19.45.10:773][571]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightHand from function: 'HandCenter' from node: Set Hand Position in graph: HandCenter in object: Pawn_Blueprint with description: Accessed None trying to read property RightHand
+[2017.09.12-19.45.10:773][571]LogScript: Warning: Accessed None trying to read property RightHand
+	Pawn_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Pawn_Blueprint_157
+	Function /Game/Pawn_Blueprint.Pawn_Blueprint_C:HandCenter:00E7
+[2017.09.12-19.45.10:773][571]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightHand from function: 'HandCenter' from node: Set Hand Position in graph: HandCenter in object: Pawn_Blueprint with description: Accessed None trying to read property RightHand
+[2017.09.12-19.45.10:773][571]LogScript: Warning: Accessed None trying to read property RightHand
+	Pawn_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Pawn_Blueprint_157
+	Function /Game/Pawn_Blueprint.Pawn_Blueprint_C:HandCenter:024F
+[2017.09.12-19.45.10:773][571]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightHand from function: 'HandCenter' from node: Return Node in graph: HandCenter in object: Pawn_Blueprint with description: Accessed None trying to read property RightHand
+[2017.09.12-19.45.10:773][571]LogScript: Warning: Accessed None trying to read property RightHand
+	Pawn_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Pawn_Blueprint_157
+	Function /Game/Pawn_Blueprint.Pawn_Blueprint_C:HandCenter:0292
+[2017.09.12-19.45.10:773][571]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightHand from function: 'HandCenter' from node: Return Node in graph: HandCenter in object: Pawn_Blueprint with description: Accessed None trying to read property RightHand

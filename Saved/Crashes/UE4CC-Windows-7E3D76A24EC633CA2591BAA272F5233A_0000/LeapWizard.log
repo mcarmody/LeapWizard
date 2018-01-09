@@ -1,0 +1,656 @@
+﻿Log file open, 09/05/17 23:06:04
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: LeapWizard
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(542056255) SRandInit(542056255).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.463267
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: F:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.06-03.06.08:418][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.06-03.06.08:418][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.06-03.06.08:563][  0]LogInit: Computer: CARMODY-PC
+[2017.09.06-03.06.08:563][  0]LogInit: User: Michael
+[2017.09.06-03.06.08:563][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.06-03.06.08:563][  0]LogInit: High frequency timer resolution =3.222664 MHz
+[2017.09.06-03.06.08:563][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2017.09.06-03.06.08:578][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.06-03.06.08:578][  0]LogMemory: Process Physical Memory: 288.07 MB used, 288.07 MB peak
+[2017.09.06-03.06.08:578][  0]LogMemory: Process Virtual Memory: 284.78 MB used, 284.78 MB peak
+[2017.09.06-03.06.08:578][  0]LogMemory: Physical Memory: 4208.79 MB used,  8027.93 MB free, 12236.72 MB total
+[2017.09.06-03.06.08:578][  0]LogMemory: Virtual Memory: 756.77 MB used,  8027.93 MB free, 134217728.00 MB total
+[2017.09.06-03.06.09:976][  0]LogInit: Using OS detected language (en-US).
+[2017.09.06-03.06.09:976][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.06-03.06.10:251][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.06-03.06.16:633][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.06-03.06.16:669][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.09.06-03.06.16:669][  0]LogD3D11RHI:       4058/0/6118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.09.06-03.06.16:671][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.06-03.06.16:671][  0]LogD3D11RHI:       0/0/6118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.06-03.06.16:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.06-03.06.16:690][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.06-03.06.16:690][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.06-03.06.16:690][  0]LogWindows: EnumDisplayDevices:
+[2017.09.06-03.06.16:690][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.09.06-03.06.16:690][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2017.09.06-03.06.16:690][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.09.06-03.06.16:691][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.09.06-03.06.16:691][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.06-03.06.16:691][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.09.06-03.06.16:691][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2017.09.06-03.06.16:691][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2017.09.06-03.06.16:691][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.06-03.06.16:740][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.06-03.06.17:265][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.06-03.06.17:407][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Intermediate/Shaders/WorkingDirectory/1204/).
+[2017.09.06-03.06.17:408][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Michael/AppData/Local/Temp/UnrealShaderWorkingDir/6BD3F6214646E454EE381D9C76053EA8/'.
+[2017.09.06-03.06.17:411][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.06-03.06.21:833][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.06-03.06.21:882][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.06-03.06.21:935][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.06-03.06.21:990][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.06-03.06.22:065][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.06-03.06.22:126][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.06-03.06.22:194][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.06-03.06.22:267][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.06-03.06.22:321][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.06-03.06.22:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.06-03.06.22:460][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.06-03.06.22:527][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.06-03.06.22:583][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.06-03.06.22:650][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.06-03.06.22:721][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.06-03.06.22:850][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.06-03.06.22:850][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.06-03.06.22:896][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.06-03.06.23:105][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.06-03.06.23:159][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.06-03.06.23:218][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.06-03.06.23:272][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.06-03.06.23:334][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.06-03.06.23:404][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.06-03.06.23:404][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.06-03.06.25:636][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.06-03.06.25:986][  0]LogDerivedDataCache: Loaded boot cache 0.35s 93MB C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.06-03.06.25:986][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.06-03.06.25:986][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Michael/Documents/Unreal Projects/LeapWizard/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.06-03.06.25:986][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.06-03.06.25:986][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Michael/Documents/Unreal Projects/LeapWizard/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.06-03.06.25:986][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.06-03.06.26:094][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.06-03.06.26:106][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Michael/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.06-03.06.26:206][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.06-03.06.26:300][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.06-03.06.26:423][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.06-03.06.26:427][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.06-03.06.37:088][  0]LogAssetRegistry: FAssetRegistry took 0.0626 seconds to start up
+[2017.09.06-03.06.40:377][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.06-03.06.53:653][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.06-03.06.53:807][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.06-03.06.53:814][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.06-03.06.53:838][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.06-03.06.53:838][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.06-03.06.53:838][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.06-03.06.55:099][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.06-03.07.00:576][  0]LogNetVersion: LeapWizard , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3245279720)
+[2017.09.06-03.07.03:253][  0]LogPackageLocalizationCache: Processed 6 localized package path(s) for 2 prioritized culture(s) in 0.109634 seconds
+[2017.09.06-03.07.03:297][  0]LogUObjectArray: 36510 objects as part of root set at end of initial load.
+[2017.09.06-03.07.03:297][  0]LogUObjectAllocator: 7648152 out of 0 bytes used by permanent object pool.
+[2017.09.06-03.07.03:297][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.06-03.07.03:386][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.06-03.07.27:423][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.06-03.07.27:495][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.06-03.07.29:427][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.06-03.07.30:540][  0]SourceControl: Source control is disabled
+[2017.09.06-03.07.30:540][  0]SourceControl: Source control is disabled
+[2017.09.06-03.07.30:695][  0]SourceControl: Source control is disabled
+[2017.09.06-03.07.30:834][  0]SourceControl: Source control is disabled
+[2017.09.06-03.07.32:357][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.06-03.07.32:740][  0]LogOcInput: OculusInput pre-init called
+[2017.09.06-03.07.33:700][  0]LogEngine: Initializing Engine...
+[2017.09.06-03.07.38:306][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-2B8C2E96
+[2017.09.06-03.07.42:537][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.06-03.07.42:537][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.06-03.07.44:329][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.06-03.07.44:628][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.06-03.07.44:749][  0]LogInit: FAudioDevice initialized.
+[2017.09.06-03.07.44:868][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.06-03.07.44:909][  0]LogInit: Texture streaming: Enabled
+[2017.09.06-03.07.45:237][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.06-03.07.46:270][  0]LogInit: Transaction tracking system initialized
+[2017.09.06-03.07.47:661][  0]BlueprintLog: New page: Editor Load
+[2017.09.06-03.07.56:323][  0]LocalizationService: Localization service is disabled
+[2017.09.06-03.08.00:412][  0]LogConsoleResponse: Display: 
+[2017.09.06-03.08.11:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/' took 0.03s
+[2017.09.06-03.08.11:722][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.06-03.08.11:722][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.06-03.08.11:953][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.06-03.08.30:502][  0]SourceControl: Source control is disabled
+[2017.09.06-03.08.30:861][  0]Cmd: MAP LOAD FILE="C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.06-03.08.31:057][  0]LightingResults: New page: Lighting Build
+[2017.09.06-03.08.31:886][  0]MapCheck: New page: Map Check
+[2017.09.06-03.08.31:886][  0]LightingResults: New page: Lighting Build
+[2017.09.06-03.09.09:300][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] Override pins have been removed from  Break PostProcessSettings  in  PostProcessChanger , please verify the Blueprint works as expected! See tooltips for enabling pin visibility for more details. This warning will go away after you resave the asset!
+[2017.09.06-03.09.09:349][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] [0196.29] Compile of PostProcessChanger successful, but with 1 Warning(s) [in 329 ms] (/LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger)
+[2017.09.06-03.09.15:373][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ChangeImageHandTint' for  InputAction ChangeImageHandTint
+[2017.09.06-03.09.15:373][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.09.06-03.09.15:373][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ChangeHands' for  InputAction ChangeHands
+[2017.09.06-03.09.15:375][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ResetHMDOrientation' for  InputAction ResetHMDOrientation
+[2017.09.06-03.09.15:375][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ComfortTurnRight' for  InputAction ComfortTurnRight
+[2017.09.06-03.09.15:375][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'ComfortTurnLeft' for  InputAction ComfortTurnLeft
+[2017.09.06-03.09.15:375][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.09.06-03.09.15:376][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2017.09.06-03.09.15:376][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2017.09.06-03.09.15:377][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2017.09.06-03.09.15:377][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2017.09.06-03.09.15:378][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.09.06-03.09.15:507][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacter] [0202.44] Compile of LeapFloatingHandsCharacter successful, but with 12 Warning(s) [in 157 ms] (/LeapMotion/Blueprints/Rigging/LeapFloatingHandsCharacter.LeapFloatingHandsCharacter)
+[2017.09.06-03.09.29:052][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.06-03.09.33:077][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_26
+[2017.09.06-03.09.33:492][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_28
+[2017.09.06-03.09.33:950][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.06-03.09.35:459][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.06-03.09.35:674][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 214.275ms to complete.
+[2017.09.06-03.09.35:674][  0]LogFileHelpers: Loading map 'Minimal_Default' took 64.994
+[2017.09.06-03.09.45:546][  0]LogCollectionManager: Loaded 0 collections in 0.003522 seconds
+[2017.09.06-03.09.47:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Saved/Collections/' took 0.01s
+[2017.09.06-03.09.47:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/Developers/Michael/Collections/' took 0.01s
+[2017.09.06-03.09.47:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LeapWizard/Content/Collections/' took 0.01s
+[2017.09.06-03.09.47:735][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000110 seconds
+[2017.09.06-03.09.47:981][  0]LogContentBrowser: Native class hierarchy populated in 0.0711 seconds. Added 2413 classes and 504 folders.
+[2017.09.06-03.09.48:682][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0297 seconds. Added 0 classes and 0 folders.
+[2017.09.06-03.09.58:013][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.09.06-03.09.59:003][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0030 seconds. Added 1 classes and 2 folders.
+[2017.09.06-03.10.11:502][  0]LogSlate: Took 0.139935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.06-03.10.11:607][  0]LogSlate: Took 0.051856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.06-03.10.11:846][  0]LogSlate: Took 0.038750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.06-03.10.13:667][  0]LogRenderer: Reallocating scene render targets to support 1104x564 Format 10 NumSamples 1 (Frame:1).
+[2017.09.06-03.10.16:435][  0]LogSlate: Took 0.119142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.06-03.10.17:251][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.09.06-03.10.17:251][  0]LogLoad: (Engine Initialization) Total time: 264.19 seconds
+[2017.09.06-03.10.17:251][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.06-03.10.17:294][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.06-03.10.18:062][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.06-03.10.20:948][  6]LogAssetRegistry: Asset discovery search completed in 223.8966 seconds
+[2017.09.06-03.10.20:951][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.06-03.10.20:951][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2017.09.06-03.10.42:638][207]LogTemp: Repeating last play command: VR Preview
+[2017.09.06-03.10.42:779][207]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.10.42:779][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.06-03.10.43:091][207]PIE: New page: PIE session: Minimal_Default (Sep 5, 2017, 7:10:42 PM)
+[2017.09.06-03.10.43:091][207]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.09.06-03.10.43:212][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120568s)
+[2017.09.06-03.10.43:213][207]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.06-03.10.43:214][207]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2017.09.06-03.10.43:214][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.122266s)
+[2017.09.06-03.10.43:249][207]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.06-03.10.43:341][207]LogInit: FAudioDevice initialized.
+[2017.09.06-03.10.44:108][207]LogLoad: Game class is 'LeapGameMode_C'
+[2017.09.06-03.10.44:271][207]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_24
+[2017.09.06-03.10.44:271][207]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.09.05-23.10.44
+[2017.09.06-03.10.44:632][207]LogWorld: Bringing up level for play took: 0.364850
+[2017.09.06-03.10.45:648][207]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.09.06-03.10.45:792][207]Cmd: stereo reset
+[2017.09.06-03.10.46:049][207]Command not recognized: stereo reset
+[2017.09.06-03.10.46:074][207]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 2.86
+[2017.09.06-03.10.46:134][207]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.10.47:013][208]LogRenderer: Reallocating scene render targets to support 3024x1680 Format 10 NumSamples 1 (Frame:1).
+[2017.09.06-03.10.47:035][209]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.47:143][210]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.47:248][211]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.47:358][212]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.47:463][213]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.47:585][214]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.47:692][215]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.47:795][216]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.47:901][217]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:007][218]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:113][219]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:221][220]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:327][221]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:431][222]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:535][223]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:640][224]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:744][225]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:850][226]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.48:955][227]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:059][228]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:168][229]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:274][230]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:378][231]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:484][232]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:588][233]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:693][234]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:796][235]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.49:901][236]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:006][237]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:109][238]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:214][239]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:318][240]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:423][241]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:527][242]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:631][243]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:757][244]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:860][245]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.50:969][246]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:085][247]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:189][248]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:292][249]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:399][250]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:503][251]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:608][252]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:711][253]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:816][254]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.51:920][255]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:025][256]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:129][257]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:233][258]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:338][259]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:442][260]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:548][261]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:652][262]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:756][263]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:859][264]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.52:965][265]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:068][266]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:172][267]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:277][268]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:380][269]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:483][270]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:588][271]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:691][272]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:796][273]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.53:900][274]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:003][275]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:119][276]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:223][277]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:325][278]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:430][279]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:534][280]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:639][281]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:742][282]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:847][283]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.54:952][284]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:055][285]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:159][286]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:262][287]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:367][288]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:471][289]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:575][290]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:678][291]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:781][292]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:886][293]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.55:990][294]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:093][295]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:198][296]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:301][297]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:404][298]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:509][299]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:612][300]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:715][301]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:824][302]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.56:927][303]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:031][304]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:134][305]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:238][306]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:340][307]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:446][308]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:550][309]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:653][310]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:756][311]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:859][312]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.57:963][313]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:067][314]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:171][315]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:275][316]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:378][317]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:483][318]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:587][319]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:692][320]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:794][321]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.10.58:797][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.10.59:239][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.11.05:151][535]LogTemp: Repeating last play command: VR Preview
+[2017.09.06-03.11.05:183][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.11.05:184][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.06-03.11.05:184][535]PIE: New page: PIE session: Minimal_Default (Sep 5, 2017, 7:11:05 PM)
+[2017.09.06-03.11.05:184][535]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.09.06-03.11.05:202][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017444s)
+[2017.09.06-03.11.05:204][535]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.06-03.11.05:205][535]LogPlayLevel: PIE: World Init took: (0.002840s)
+[2017.09.06-03.11.05:205][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.020924s)
+[2017.09.06-03.11.05:265][535]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.06-03.11.05:289][535]LogInit: FAudioDevice initialized.
+[2017.09.06-03.11.05:391][535]LogLoad: Game class is 'LeapGameMode_C'
+[2017.09.06-03.11.05:395][535]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_24
+[2017.09.06-03.11.05:396][535]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.09.05-23.11.05
+[2017.09.06-03.11.05:397][535]LogWorld: Bringing up level for play took: 0.004686
+[2017.09.06-03.11.05:398][535]Cmd: stereo reset
+[2017.09.06-03.11.05:398][535]Command not recognized: stereo reset
+[2017.09.06-03.11.05:405][535]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.19
+[2017.09.06-03.11.05:405][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.11.05:754][537]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.05:884][538]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.05:992][539]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:100][540]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:206][541]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:310][542]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:416][543]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:520][544]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:627][545]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:735][546]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:839][547]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.06:944][548]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:049][549]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:153][550]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:257][551]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:361][552]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:466][553]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:573][554]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:676][555]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:780][556]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:887][557]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.07:991][558]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:097][559]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:201][560]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:304][561]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:407][562]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:511][563]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:636][564]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:740][565]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:844][566]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.08:949][567]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:053][568]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:158][569]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:261][570]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:365][571]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:469][572]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:574][573]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:679][574]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:782][575]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.09:904][576]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:009][577]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:112][578]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:216][579]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:320][580]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:426][581]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:530][582]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:636][583]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:740][584]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:844][585]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.10:952][586]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:075][587]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:178][588]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:282][589]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:386][590]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:493][591]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:597][592]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:701][593]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:805][594]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.11:909][595]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.12:012][596]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.12:119][597]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.12:125][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.11.12:495][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.11.25:939][671]LogSteamVRController: Controller role for device 3 is 0 (invalid=0, left=1, right=2).
+[2017.09.06-03.11.25:939][671]LogSteamVRController: Warning: Controller device 3 has no role set.  There is no 'right' controller according to steamvr, so we are pickign that.
+[2017.09.06-03.11.42:466][723]LogTemp: Repeating last play command: VR Preview
+[2017.09.06-03.11.42:484][723]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.11.42:484][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.06-03.11.42:484][723]PIE: New page: PIE session: Minimal_Default (Sep 5, 2017, 7:11:42 PM)
+[2017.09.06-03.11.42:484][723]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.09.06-03.11.42:495][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010175s)
+[2017.09.06-03.11.42:496][723]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.06-03.11.42:496][723]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2017.09.06-03.11.42:496][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012012s)
+[2017.09.06-03.11.42:525][723]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.06-03.11.42:535][723]LogInit: FAudioDevice initialized.
+[2017.09.06-03.11.42:628][723]LogLoad: Game class is 'LeapGameMode_C'
+[2017.09.06-03.11.42:632][723]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_24
+[2017.09.06-03.11.42:632][723]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.09.05-23.11.42
+[2017.09.06-03.11.42:633][723]LogWorld: Bringing up level for play took: 0.003836
+[2017.09.06-03.11.42:634][723]Cmd: stereo reset
+[2017.09.06-03.11.42:634][723]Command not recognized: stereo reset
+[2017.09.06-03.11.42:640][723]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.574
+[2017.09.06-03.11.42:641][723]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.11.42:833][725]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.42:939][726]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:042][727]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:147][728]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:252][729]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:354][730]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:459][731]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:593][732]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:706][733]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:810][734]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.43:915][735]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:019][736]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:125][737]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:229][738]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:332][739]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:437][740]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:543][741]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:647][742]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:751][743]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:854][744]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.44:957][745]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:059][746]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:180][747]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:284][748]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:388][749]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:491][750]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:596][751]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:701][752]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:804][753]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.45:908][754]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:012][755]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:117][756]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:269][757]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:372][758]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:479][759]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:584][760]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:688][761]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:794][762]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.46:899][763]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:002][764]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:106][765]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:210][766]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:315][767]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:419][768]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:523][769]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:626][770]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:803][771]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.47:848][771]LogScriptCore: Warning: Script Msg: Divide by zero detected: 24.929514 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2017.09.06-03.11.47:849][771]LogScriptCore: Warning: Script Msg: Divide by zero detected: 24.929514 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2017.09.06-03.11.47:906][772]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:030][773]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:138][774]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:241][775]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:345][776]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:449][777]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:555][778]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:660][779]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:765][780]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:871][781]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.48:976][782]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:080][783]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:192][784]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:296][785]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:403][786]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:507][787]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:611][788]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:715][789]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:820][790]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.49:924][791]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.50:029][792]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.50:142][793]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.50:246][794]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.11.50:249][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.11.50:711][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.12.00:145][ 25]LogTemp: Repeating last play command: VR Preview
+[2017.09.06-03.12.00:172][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.12.00:172][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.06-03.12.00:172][ 25]PIE: New page: PIE session: Minimal_Default (Sep 5, 2017, 7:12:00 PM)
+[2017.09.06-03.12.00:172][ 25]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.09.06-03.12.00:185][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013030s)
+[2017.09.06-03.12.00:186][ 25]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.06-03.12.00:187][ 25]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2017.09.06-03.12.00:187][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014690s)
+[2017.09.06-03.12.00:228][ 25]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.06-03.12.00:239][ 25]LogInit: FAudioDevice initialized.
+[2017.09.06-03.12.00:343][ 25]LogLoad: Game class is 'LeapGameMode_C'
+[2017.09.06-03.12.00:347][ 25]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_24
+[2017.09.06-03.12.00:348][ 25]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.09.05-23.12.00
+[2017.09.06-03.12.00:349][ 25]LogWorld: Bringing up level for play took: 0.004933
+[2017.09.06-03.12.00:350][ 25]Cmd: stereo reset
+[2017.09.06-03.12.00:350][ 25]Command not recognized: stereo reset
+[2017.09.06-03.12.00:358][ 25]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.144
+[2017.09.06-03.12.00:358][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.06-03.12.00:774][ 27]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.12.00:881][ 28]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.12.00:987][ 29]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.12.01:091][ 30]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.12.01:195][ 31]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.12.01:300][ 32]LogHMD: Warning:  SteamVR Compositor had an error on present (101)
+[2017.09.06-03.12.01:735][ 33]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.323 s
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: === Handled ensure: ===
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: 
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: Ensure condition failed: ScreenRadius >= 0.0f [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\ShadowSetup.cpp] [Line: 1559]
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: View.ShadowViewMatrices.ScreenScale nan, OriginalBounds.SphereRadius 23.698374, ShadowViewDistFromBounds 156.885971
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: Stack: 
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000002EF33606
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000002ECBC2D2
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000002ECD4746
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000277B0E56
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000277E8273
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000277C5158
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x000000002774BB2E
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x000000002774AFBE
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x000000002723F747
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000027761B75
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000027740DE6
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000002EB824F5
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000002EB82ADA
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-RenderCore.dll!0x00000000392C1FB1
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-RenderCore.dll!0x00000000392C3076
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000002EF30678
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000002EF26ECC
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: KERNEL32.DLL!0x0000000071F82774
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: ntdll.dll!0x0000000072460D51
+[2017.09.06-03.12.01:735][ 33]LogOutputDevice: Error: 
+[2017.09.06-03.12.01:735][ 33]LogStats:                SubmitErrorReport -  0.000 s
